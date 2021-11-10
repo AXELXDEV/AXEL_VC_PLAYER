@@ -3,7 +3,7 @@ import re
 import asyncio
 from pyrogram import Client
 from XmartyBot.queues import QUEUE, add_to_queue
-from config import bot, call_py, HNDLR, contact_filter, GRPPLAY
+from config import bot, call_py, HNDLR, contact_filter, GRPPLAY, SUPPORT_GROUP
 from pyrogram import filters
 from pyrogram.types import Message
 from pytgcalls import StreamType
