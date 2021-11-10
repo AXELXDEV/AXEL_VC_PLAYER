@@ -27,7 +27,7 @@
             "required": false 
         },
         "SUPPORT_GROUP": {
-                      "value": "xmarty_support"
+                      "value": "xmarty_support",
                       "required": true
         },
         "GROUP_MODE": {
