@@ -8,6 +8,7 @@ if os.path.exists(".env"):
     load_dotenv(".env")
     
 # Necessary Vars
+SUPPORT_GROUP = int(os.getenv("SUPPORT_GROUP", "Xmarty_Support"))
 API_ID = int(os.getenv("API_ID", "6"))
 API_HASH = os.getenv("API_HASH", "eb06d4abfb49dc3eeb1aeb98ae0f581e")
 SESSION = os.getenv("SESSION")
