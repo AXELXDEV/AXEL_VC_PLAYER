@@ -78,7 +78,7 @@ async def play(client, m: Message):
                stream_type=StreamType().pulse_stream,
             )
             add_to_queue(chat_id, songname, dl, link, "Audio", 0)
-            await huehue.edit(f"**Started Playing Audio ▶** \n**🎧 SONG** : [{songname}]({link}) \n**SUPPORT GROUP** :{@Xmarty_Support} \n**💬 CHAT** : `{chat_id}`", disable_web_page_preview=True)
+            await huehue.edit(f"**Started Playing Audio ▶** \n**🎧 SONG** : [{songname}]({link}) \n**SUPPORT GROUP** : `{@Xmarty_Support}` \n**💬 CHAT** : `{chat_id}`", disable_web_page_preview=True)
       else:
          if len(m.command) < 2:
             await m.reply("`Reply to an Audio File or give something to Search`")
