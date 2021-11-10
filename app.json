@@ -26,6 +26,10 @@
             "value": "!",
             "required": false 
         },
+        "SUPPORT_GROUP":{
+                      "value": "xmarty_support"
+                      "required": true
+        },
         "GROUP_MODE": {
             "description": "Anyone can play, if set to True. Set it to False to restrict play access to Sudo Users/Contacts only",
             "value": "True",
