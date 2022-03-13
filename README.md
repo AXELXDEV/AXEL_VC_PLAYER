@@ -11,7 +11,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 - Python 3.8+
 - FFMPEG
 - Nodejs v16+
-## Support
+## Support & Updates 
 <a href="https://t.me/AXEL_SUPPPORTXD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <a href="https://t.me/AXEL_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -24,7 +24,11 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Railway ❤
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AXELXDEV/AXEL_VC_PLAYER=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AXELXDEV/AXEL_VC_PLAYER=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION
+
+### 🧪 Get STRING_SESSION from below:
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/TELETHON_PYROGRAM_STRINGBOT) ``Pyrogram``
 
 ### Local Deploy
 1) Installing NodeJS
