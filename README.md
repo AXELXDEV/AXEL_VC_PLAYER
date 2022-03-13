@@ -38,8 +38,8 @@ sudo apt-get install git ffmpeg -y
 
 3) Cloning the Repo
 ```bash
-git clone https://github.com/S780821/Tg_Vc_MuzicPlayer
-cd Tg_Vc_MuzicPlayer
+git clone https://github.com/AXELXDEV/AXEL_VC_PLAYER
+cd AXEL_VC_PLAYER
 ```
 
 4) Rename `example.env` to `.env` and Fill in the Environment Variables
