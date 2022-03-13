@@ -4,6 +4,9 @@ A Telegram Userbot to play Audio and Video songs / files in Telegram Voice Chats
 It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
+[![logo](https://telegra.ph/file/59cc37f7183551be1a26e.jpg))
+
+
 ## Requirements
 - Python 3.8+
 - FFMPEG
