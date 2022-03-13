@@ -30,6 +30,9 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/TELETHON_PYROGRAM_STRINGBOT) ``Pyrogram``
 
+# The owner would not be responsible for any kind of bans due to the bot...
+
+
 ### Local Deploy 👿
 1) Installing NodeJS
 ```bash
