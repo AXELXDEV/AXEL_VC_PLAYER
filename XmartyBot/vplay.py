@@ -112,7 +112,7 @@ async def vplay(client, m: Message):
                url = search[1]
                hm, ytlink = await ytdl(url)
                if hm==0:
-                  await huehue.edit(f"**YTDL ERROR ⚠️** \n\n`{ytlink}`")
+                  await huehue.edit(f"**YTDL ERROR ⚠️👈** \n\n`{ytlink}`")
                else:
                   if chat_id in QUEUE:
                      pos = add_to_queue(chat_id, songname, ytlink, url, "Video", Q)
