@@ -53,7 +53,7 @@ async def play(client, m: Message):
    chat_id = m.chat.id
    if replied:
       if replied.audio or replied.voice:
-         huehue = await replied.reply("`Downloading`")
+         huehue = await replied.reply("`Downloading Axel Vc Player`")
          dl = await replied.download()
          link = replied.link
          if replied.audio:
@@ -78,7 +78,7 @@ async def play(client, m: Message):
                stream_type=StreamType().pulse_stream,
             )
             add_to_queue(chat_id, songname, dl, link, "Audio", 0)
-            await huehue.edit(f"**Started Playing Audio ▶** \n**🎧 SONG** : [{songname}]({link}) \n**💬 CHAT** : `{chat_id}`", disable_web_page_preview=True)
+            await huehue.edit(f"**Started Playing Audio Join @BUNKERS_OP ▶** \n**🎧 SONG** : [{songname}]({link}) \n**💬 CHAT** : `{chat_id}`", disable_web_page_preview=True)
       else:
          if len(m.command) < 2:
             await m.reply("`Reply to an Audio File or give something to Search`")
@@ -93,7 +93,7 @@ async def play(client, m: Message):
                url = search[1]
                hm, ytlink = await ytdl(url)
                if hm==0:
-                  await huehue.edit(f"**YTDL ERROR ⚠️** \n\n`{ytlink}`")
+                  await huehue.edit(f"**YTDL ERROR ⚠️** Reports Bugs to @A_xe_L \n\n`{ytlink}`")
                else:
                   if chat_id in QUEUE:
                      pos = add_to_queue(chat_id, songname, ytlink, url, "Audio", 0)
