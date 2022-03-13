@@ -11,7 +11,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 - Python 3.8+
 - FFMPEG
 - Nodejs v16+
-
+## Support
 <a href="https://t.me/AXEL_SUPPPORTXD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <a href="https://t.me/AXEL_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
