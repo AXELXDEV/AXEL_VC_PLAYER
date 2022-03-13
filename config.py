@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from pyrogram import Client, filters
 from pytgcalls import PyTgCalls
 
-# For Local Deploy
+# For Local Deploy / Vps
 if os.path.exists(".env"):
     load_dotenv(".env")
     
