@@ -55,7 +55,7 @@ python3 main.py
 ```
 
 
-## Environment Variables
+## Environment Variables / Mandatory Variables
 - `API_ID`
 - `API_HASH`
 - `SESSION` - A Pyrogram String Session. Get one from [Here](https://replit.com/@S780821/PyrogramSession)
