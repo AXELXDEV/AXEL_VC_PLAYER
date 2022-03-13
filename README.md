@@ -7,23 +7,24 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 [![logo](https://telegra.ph//file/4065c4735c15fefcd7afc.jpg)
 
 
-## •Requirements 👽
+## •Requirements 👽✨
 - Python 3.8+
 - FFMPEG
 - Nodejs v16+
-## •Support & Updates 
+
+## •Support & Updates🔥✨
 <a href="https://t.me/AXEL_SUPPPORTXD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <a href="https://t.me/AXEL_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 <a href="https://t.me/A_xe_l"><img src="https://img.shields.io/badge/AXEL -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-## •Deployment
+## •Deployment 🤝✨
 
-### Heroku 🥵
+### Heroku 🥵✨
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Railway ❤
+### Railway ❤✨
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AXELXDEV/AXEL_VC_PLAYER=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION) 
 
 ### 🧪 Get STRING_SESSION from below (Easy method) :
@@ -33,7 +34,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 # The owner would not be responsible for any kind of bans due to the bot.
 
 
-### Local Deploy 👿
+### Local Deploy 👿✨
 1) Installing NodeJS
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
@@ -64,7 +65,7 @@ python3 main.py
 ```
 
 
-## Environment Variables / Mandatory Variables
+## Environment Variables / Mandatory Variables 
 - `API_ID`
 - `API_HASH`
 - `SESSION` - A Pyrogram String Session. Get one from [Here](https://t.me/TELETHON_PYROGRAM_STRINGBOT)
@@ -72,7 +73,7 @@ python3 main.py
 - `GROUP_MODE` - if Value is set to `True`, Anyone can Play. Set it to `False` to restrict play access to Sudo Users/Contacts only.
 
 
-## 🇮🇳Commands and Usage
+## 🇮🇳Commands and Usage ✨
 1) Start the Userbot, check if the Userbot is running by `!ping`.
 2) Commands of this userbot are accessible to and can be used by the Account itself and it's Contacts.
 3) Check `!help` for commands.
