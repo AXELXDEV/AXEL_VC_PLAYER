@@ -7,7 +7,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 [![logo](https://telegra.ph//file/4065c4735c15fefcd7afc.jpg)
 
 
-## •Requirements
+## •Requirements 👽
 - Python 3.8+
 - FFMPEG
 - Nodejs v16+
