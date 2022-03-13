@@ -1,13 +1,13 @@
 {
-    "name": "Tg_Vc_MuzicPlayer",
+    "name": "Axel_Vc_Player",
     "description": "A Telegram Userbot to play Songs in Voice Chat",
-    "logo": "https://telegra.ph/file/bf3d5334efaa345955275.jpg",
+    "logo": "https://telegra.ph//file/4065c4735c15fefcd7afc.jpg",
     "keywords": [
         "Telegram",
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/S780821/Tg_Vc_MuzicPlayer",
+    "repository": "https://github.com/AXELXDEV/AXEL_VC_PLAYER",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session Genrate it from Repl Or bot @TELETHON_PYROGRAM_STRINGBOT",
