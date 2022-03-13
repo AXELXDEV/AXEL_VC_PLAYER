@@ -26,7 +26,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 ### Railway ❤
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AXELXDEV/AXEL_VC_PLAYER=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION) 
 
-### 🧪 Get STRING_SESSION from below:
+### 🧪 Get STRING_SESSION from below (Easy method) :
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/TELETHON_PYROGRAM_STRINGBOT) ``Pyrogram``
 
