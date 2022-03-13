@@ -5,8 +5,8 @@ from pytgcalls import idle as pyidle
 from config import bot, call_py
 
 bot.start()
-print("Xmarty UserBot Started")
+print("Axel UserBot Started")
 call_py.start()
-print("Xmarty Vc Client Started")
+print("Axel Vc Client Started")
 pyidle()
 idle()
