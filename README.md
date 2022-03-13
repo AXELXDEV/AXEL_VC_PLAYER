@@ -21,7 +21,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 ### Heroku 🥵
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Railway
+### Railway ❤
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Tg_Vc_MuzicPlayer&envs=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION)
 
 ### Local Deploy
