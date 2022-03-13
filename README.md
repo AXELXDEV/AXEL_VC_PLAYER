@@ -24,7 +24,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Railway ❤
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AXELXDEV/AXEL_VC_PLAYER=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AXELXDEV/AXEL_VC_PLAYER=API_ID,API_HASH,GROUP_MODE,HNDLR,SESSION) 
 
 ### 🧪 Get STRING_SESSION from below:
 
