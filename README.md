@@ -81,5 +81,6 @@ python3 main.py
 - [SURAJOP7](https://github.com/SURAJOP7/AXEL.git) 
 
 ## Credits ✨
+* [Axel Creator](https://github.com/AXELXDEV)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Laky](https://github.com/Laky-64) for [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
