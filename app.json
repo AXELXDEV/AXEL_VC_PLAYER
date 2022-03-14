@@ -10,7 +10,7 @@
     "repository": "https://github.com/AXELXDEV/AXEL_VC_PLAYER",
     "env": {
         "SESSION": {
-            "description": "Pyrogram String Session Genrate it from Repl Or bot @TELETHON_PYROGRAM_STRINGBOT",
+            "description": "Pyrogram String Session Genrate if from @TELETHON_PYROGRAM_STRINGBOT",
             "required": true
         },
         "API_ID": {
