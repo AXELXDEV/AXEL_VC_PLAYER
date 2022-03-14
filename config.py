@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from pyrogram import Client, filters
 from pytgcalls import PyTgCalls
 
-# For Local Deploy / Vps
+# For Local Deploy
 if os.path.exists(".env"):
     load_dotenv(".env")
     
@@ -29,4 +29,3 @@ else:
 GRPPLAY = grp
 bot = Client(SESSION, API_ID, API_HASH, plugins=dict(root="XmartyBot"))
 call_py = PyTgCalls(bot)
-
