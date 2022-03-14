@@ -32,7 +32,13 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/TELETHON_PYROGRAM_STRINGBOT) ``Pyrogram``
 
 # The owner would not be responsible for any kind of bans due to the bot.
+[![Forks](https://img.shields.io/github/forks/MrRizoel/RiZoeLXSpam?style=flat-square&color=orange)](https://github.com/AXELXDEV/AXEL_VC_PLAYER/fork)
 
+[![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
+
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AXELXDEV/AXEL_VC_PLAYER)   
+
+----
 
 ### Local Deploy 👿✨
 1) Installing NodeJS
