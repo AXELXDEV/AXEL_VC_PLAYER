@@ -1,4 +1,4 @@
-# AXEL_VC_MUSIC_PLAYER
+# AXEL_VC__PLAYER
 A Telegram Userbot to play Audio and Video songs / files in Telegram Voice Chats.
 
 It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram](https://github.com/pyrogram/pyrogram)
