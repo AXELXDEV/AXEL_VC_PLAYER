@@ -19,7 +19,7 @@ It's made with [PyTgCalls](https://github.com/pytgcalls/pytgcalls) and [Pyrogram
 
 <a href="https://t.me/A_xe_l"><img src="https://img.shields.io/badge/AXEL -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-## •Deployment 🤝✨
+## •Deployment 🤝🙃
 
 ### Heroku 🥵✨
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
